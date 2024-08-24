@@ -1,0 +1,202 @@
+[
+    {
+      "title": "Manali, India",
+      "city": "Manali",
+      "address": "Himachal Pradesh, India",
+      "price": 1500,
+      "desc": "With spectacular valleys, breathtaking views, snowcapped mountains, and lush forests of oak, deodar, and pine, Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh. Gifted to the world by the mighty Himalayas, it is known to be one of the most popular destinations for Honeymooners. Manali offers magnificent views of the Pir Panjal and the Dhauladhar ranges, covered in a thick blanket of snow for most of the year",
+      "reviews": [],
+  
+      "photo": "https://www.holidify.com/images/bgImages/MANALI.jpg",
+      "featured": true
+    },
+    {
+        "title": "Goa, India",
+        "city": "Goa",
+        "address": "Goa, India",
+        "price": 2000,
+        "desc": "Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture. Spread across just 3,702 km, Goa lies in the Konkan region. It is a far cry from the hippie haven or a beach getaway, and one of the only few destinations that is open 24x7. The laid-backness (susegad) of Goa attracts as many international tourists as it does Indians, or even more so.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/GOA.jpg",
+        "featured": false
+      },
+      {
+        "title": "Srinagar, India",
+        "city": "Srinagar",
+        "address": "Jammu & Kashmir, India",
+        "price": 2500,
+        "desc": "Famously known as 'Heaven on Earth, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum. Srinagar is known for the stationary houseboats and gondola-type rowboats- Shikaras on Dal Lake. Adorned with tranquil Dal Lake & Nigeen Lake, Srinagar is the dream destination for honeymoon and family holidays.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/SRINAGAR.jpg",
+        "featured": true
+      },
+      {
+        "title": "Rishikesh, India",
+        "city": "Rishikesh",
+        "address": "Uttarakhand, India",
+        "price": 1500,
+        "desc": "Located in the foothills of the Himalayas along the convergence of Ganga and Chandrabhaga River, Rishikesh is a small town in the Dehradun district, located close to Haridwar in Uttarakhand. Rishikesh (also called as Hrishikesh) is known for its adventure activities, ancient temples, popular cafes and as the 'Yoga Capital of the World'. Gateway to Garhwal Himalayas, Rishikesh is also a pilgrimage town and one of the holiest places for Hindus.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/RISHIKESH.jpg",
+        "featured": true
+      },
+      {
+        "title": "Darjeeling, India",
+        "city": "Darjeeling",
+        "address": "West Bengal, India",
+        "price": 2300,
+        "desc": "The previous summer capital of India under the British Raj, Darjeeling has come off age as one of the most sought after hill stations in India. Located in West Bengal, this scenic hill station is the perfect getaway for a romantic honeymoon. Nestled amidst acres of tea plantations, Darjeeling stands at the height of 2,050 meters above sea level, thus boasting a cool climate all year round.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/DARJEELING.jpg",
+        "featured": true
+      },
+      {
+        "title": "Shimla, India",
+        "city": "Shimla",
+        "address": "Himachal Pradesh, India",
+        "price": 3000,
+        "desc": "Shimla is the capital of Himachal Pradesh and a popular hill-station among Indian families and honeymooners. Situated at the height of 2200m, it was the summer capital of British India. The hill station still retains its old-world charm with beautiful colonial architecture, pedestrian-friendly Mall Road and the ridge lined up with multiple shops, cafes and restaurants.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/compressed/686.jpg?v=1.1",
+        "featured": true
+      },
+      {
+        "title": "Jaipur, India",
+        "city": "Jaipur",
+        "address": "Rajasthan, India",
+        "price": 1800,
+        "desc": "Also called the Pink City, Jaipur is the capital of the royal state of Rajasthan. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits in the country.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/JAIPUR.jpg",
+        "featured": false
+      },
+      {
+        "title": "Pachmari, India",
+        "city": "Pachmari",
+        "address": "Madhya Pradesh, India",
+        "price": 2000,
+        "desc": "Pachmarhi is the only hill station and is the highest point in Madhya Pradesh. Pachmarhi is also often known as 'Satpura ki Ran' or the 'Queen of the Satpura Range'. Situated at an altitude of 1,067 metres, the picturesque town is a part of UNESCO Biosphere Reserve, home to leopards and bison.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/PACHMARHI.jpg",
+        "featured": false
+      },
+      {
+        "title": "Kolkata, India",
+        "city": "Kolkata",
+        "address": "West Bengal, India",
+        "price": 2100,
+        "desc": "Kolkata, India's second biggest city, is a perpetually ongoing festival of human existence, concurrently luxurious and squalid, refined and frantic, pointedly futuristic, while beautifully in decay. A vibrant 350-year-old metropolis located on India's Eastern Coast, the capital of West Bengal thrives on contradictions and imposing spectacles; nothing is commonplace in this city. Famously known as the City of Joy, Kolkata is, in every sense, the artistic, cultural and intellectual capital of the country. Kolkata's streets are vivid, hectic, chaotic, and yet, brimming with life and creativity. Driven by the indomitable spirit of the self-made middle class, the city has created a beautiful juxtaposition of the old colonial-era charm with the nascent upcoming hipster culture that thrives amongst the city's millennial residents",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/KOLKATA.jpg",
+        "featured": true
+      },
+      {
+        "title": "Agra, India",
+        "city": "Agra",
+        "address": "Uttar Pradesh, India",
+        "price": 1500,
+        "desc": "Located on the banks of River Yamuna in Uttar Pradesh, Agra is a popular tourist destination as it is home to one of the 7 wonders of the world, the Taj Mahal. It is a sneak peek into the architectural history and legacy of the Mughal empire with two other UNESCO World Heritage Sites Agra Fort and Fatehpur Sikri. History, architecture, romance all together create the magic of Agra, and hence, makes for a must-visit for anyone living in or visiting India.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/AGRA.jpg",
+        "featured": true
+      },
+      {
+        "title": "Jodhpur, India",
+        "city": "Jodhpur",
+        "address": "Rajasthan, India",
+        "price": 2500,
+        "desc": "Jodhpur is the second-largest city in Rajasthan and the former capital of the Marwar region. It is popularly called 'the Blue City' as it looks completely blue from an aerial view because of its blue walls and houses. Jodhpur is primarily famous for its temples, lakes and snacks, with the magnificent Mehrangarh Fort being the main attraction.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/JODHPUR.jpg",
+        "featured": false
+      },
+      {
+        "title": "Khajuraho, India",
+        "city": "Khajuraho",
+        "address": "Madhya Pradesh, India",
+        "price": 1600,
+        "desc": "Khajuraho, a UNESCO World Heritage Site located in Madhya Pradesh, is known around the world for its stunning temples adorned by erotic and sensuous carvings. A small town located in the Bundelkhand region, Khajuraho is a brilliant example of Indian architecture and its culture back in the medieval period. The architecture of these Hindu and Jain temples depict the erotic forms of love, the carvings on the walls display passion in the most sensuous yet aesthetic ways. Built between 950 to 1050 AD the sheer confrontational nature of these carvings shows a stark paradox with the conventional Indian ideals about eroticism, leaving everybody spellbound.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/KHAJURAHO.jpg",
+        "featured": false
+      },
+      {
+        "title": "Chennai, India",
+        "city": "Chennai",
+        "address": "Tail Nadu, India",
+        "price": 2400,
+        "desc": "Formerly known as Madras, Chennai is the capital city of the state of Tamil Nadu, in the southern part of India. Located on the Coromandel coast of Bay of Bengal, Chennai is as dynamic as it is immersed in tradition. This 'capital of the south', is one among the four metropolitan siblings of India, having a rich cultural history which it perfectly balances with its metropolis lifestyle.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/cmsuploads/compressed/MGR_Memorial_9_December_2007_20190802111445.jpg",
+        "featured": true
+      },
+      {
+        "title": "Chandigarh, India",
+        "city": "Chandigarh",
+        "address": "Chandigarh, India",
+        "price": 2600,
+        "desc": "Chandigarh is a union territory that is the capital of both Punjab, as well as, Haryana. India's first planned city, Chandigarh is traditionally a Punjabi city at heart with a healthy dose of modernity; Chandigarh's food and gedi culture (a leisure drive or ride the city) is what the capital is known for! Located at a distance of 265 km from Delhi, Chandigarh is one of the popular weekend road trip destinations and other major cities but also acts as an important staging point when one heads to destinations in Himachal Pradesh and Jammu and Kashmir",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/CHANDIGARH.jpg",
+        "featured": true
+      },
+      {
+        "title": "Ujjain, India",
+        "city": "Ujjain",
+        "address": "Madhya Pradesh, India",
+        "price": 1500,
+        "desc": "Ujjain, considered to be one of the holiest cities of India, is an ancient city situated on the eastern bank of the Shipra River in the Malwa region of Madhya Pradesh. Ujjain is one of the four sites for the Kumbh Mela, the largest peace-time gathering on the planet that attracts 100 million people to the festival.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/UJJAIN.jpg",
+        "featured": false
+      },
+
+      {
+        "title": "Dehradun, India",
+        "city": "Dehradun",
+        "address": "Uttarakhand, India",
+        "price": 2600,
+        "desc": "Dehradun is the capital city and the largest city of Uttarakhand. Dehradun is located at an altitude of 1400 feet above sea level and has a pleasant climate all year round. Located just 30kms from Mussoorie, Dehradun is known as the gateway to Mussoorie and Rishikesh and Haridwar.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/DEHRADUN.jpg",
+        "featured": true
+      },
+      {
+        "title": "Puri, India",
+        "city": "Puri",
+        "address": "Orissa, India",
+        "price": 2000,
+        "desc": "Puri in Odisha is one of the four must-visit pilgrimage sites for Hindus because of Jagannath Temple that forms the part of Char Dham in India. Puri is a beach city located on the coast of Bay of Bengal which is one of the favourites among people of West Bengal for a short trip.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/PURI.jpg",
+        "featured": false
+      },
+      {
+        "title": "Ooty, India",
+        "city": "Ooty",
+        "address": "Tamil Nadu, India",
+        "price": 2600,
+        "desc": "Nestled amidst Nilgiri hills, Ooty, also known as Udagamandalam, is a hill station in Tamil Nadu which serves as a top-rated tourist destination. Once regarded as the summer headquarters of the East India Company, the Queen of the hills is a picturesque getaway.",
+        "reviews": [],
+    
+        "photo": "https://www.holidify.com/images/bgImages/OOTY.jpg",
+        "featured": true
+      }
+  ]
+  

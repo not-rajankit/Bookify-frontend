@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');.worldImg{
+    width: 2.3rem;
+    height: 2.3rem;
+}
+
+
+.heroimg-box img, .heroimg-box video{
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+    border: 1px solid var(--secondary-color);
+    object-fit: cover;
+}
+
+
+.masonaryImg{
+    transition: 0.3s;
+}
+
+.masonaryImg:hover{
+    transform: scale(1.07);
+}
+.para{
+    font-size: 1.3rem;
+    font-family: 'Tajawal', sans-serif;
+    color: black;
+    font-weight: 500;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+.heading{
+    font-weight: 600;
+    color: rgb(104, 99, 99);
+    padding-left: 1rem;
+    margin-top: 2rem;
+    font-family: cursive;
+
+
+}
+.box2{
+    margin-top: 2rem;
+}
+.box3{
+    margin-top: 4rem;
+}
+.services{
+    font-family: cursive, sans-serif;
+    font-weight: 0.1srem;
+}
+
+
+@media only screen and (max-width:840px){
+    .last-box{
+        margin-top: 1rem !important;
+    }
+    .services{
+        margin-bottom: 1.5rem;
+    }
+}
+
+

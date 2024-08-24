@@ -1,0 +1,38 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.footer .logo img{
+    width: 30%;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+.footer .logo p{
+    color: var(--text-color);
+}
+
+.footer-quick-links li a{ 
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: var(--text-color);
+}
+
+.footer-quick-links h6 span i{
+    font-size: 1.1rem;
+    color: var(--secondary-color);
+}
+
+.footer{
+    color: var(--text-color);
+    font-size: 1rem;
+}
+
+.discover, .quickLinks, .contact{
+    margin-bottom: 1rem;
+}
+
+.underline{
+    /* font-weight: 600; */
+}

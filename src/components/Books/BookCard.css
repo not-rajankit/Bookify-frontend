@@ -1,0 +1,113 @@
+
+.book-card{
+    margin-bottom: 25px;
+}
+
+.imgBox img{
+    width: 100%;
+    max-height: 350px;
+    /* height: 250px; */
+    /* height: 200px;  */
+    /* height: 250px; */
+    
+    /* object-fit: cover; */
+    /* height: 350px; */
+    /* border-radius: 20px; */
+    /* border: 1px solid var(--secondary-color); */
+    /* object-fit: cover; */
+}
+.imgBox{
+    /* height: 200px; */
+    /* width: 15rem; */
+    width: 100%;
+    /* max-height: 150px; */
+    object-fit: contain;
+    /* height: auto; */
+    /* height: 250px; */
+    /* height: 250px; */
+    /* min-width: ; */
+
+    /* min-height: max-content; */
+}
+
+.main-box{
+    /* width: 20rem; */
+    /* height: 10rem; */
+}
+
+/* .imgBox span{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 11;
+    width: max-content;
+    height: max-content;
+    background-color: var(--secondary-color);
+    color: #fff;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px;
+} */
+
+.featured{
+    position: absolute;
+    right: 0;
+    top: 0;
+    /* float: right; */
+    /* top: 50px; */
+    bottom: 0;
+    width: max-content;
+    height: max-content;
+    background: var(--secondary-color);
+    color: #fff;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px;
+}
+
+.avgRating i{
+    color: var(--secondary-color);
+}
+.avgRating span{
+    color: var(--text-color);
+}
+
+.title{
+    margin-top: 1rem;
+    /* font-size: 1.rem; */
+    cursor: pointer;
+    line-height: 1.2rem;
+    min-height: 2.4rem;
+}
+
+.title a{
+    color: var(--heading-color);
+    transition: 0.3s;
+    font-weight: 600;
+}
+
+.title a:hover{
+    color: var(--secondary-color);
+}
+
+.card-bottom h5{ 
+    color: var(--secondary-color);
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.card-bottom h5 span{
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.booking-button{
+    color: #fff;
+    background: var(--secondary-color);
+    border-radius: 5px;
+    border: none;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+}
+.city i{
+    color: var(--secondary-color); margin-right: 5px;
+}
